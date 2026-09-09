@@ -59,6 +59,3 @@ granularidade do timestamp, não erro de dado).
   segundo a segundo. Faria sentido apenas para um caso de uso diferente:
   alerta operacional imediato (ex.: detecção de onça-pintada para equipe de
   campo, ou detecção de possível caça ilegal).
-
-ste
-pipeline, para manter a componente de engenharia de dados do checkpoint.
